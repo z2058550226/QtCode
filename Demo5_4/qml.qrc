@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>res/error.png</file>
+        <file>res/home.png</file>
+        <file>res/map.png</file>
+        <file>res/profile.png</file>
+        <file>res/search.png</file>
+        <file>res/setting.png</file>
+    </qresource>
+</RCC>
